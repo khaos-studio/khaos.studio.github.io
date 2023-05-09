@@ -1,3 +1,6 @@
+[![Beautiful Jekyll CI](https://github.com/khaos-studio/khaos.studio.github.io/actions/workflows/ci.yml/badge.svg)](https://github.com/khaos-studio/khaos.studio.github.io/actions/workflows/ci.yml)
+
+
 [![](https://i.imgur.com/zNBkzj1.png)](https://beautifuljekyll.com/plans/)
 
 # Beautiful Jekyll
